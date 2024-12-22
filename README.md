@@ -30,8 +30,8 @@ bash
 Insert Code
 Edit
 Copy code
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/nithingowda381/Agri-Sense>
+cd Agri-sense
 Create a virtual environment:
 
 bash
