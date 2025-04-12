@@ -69,29 +69,8 @@ Upload a leaf image; the system predicts the disease (if any) and offers treatme
 
 📁 Project Structure
 graphql
-Copy
-Edit
-Agri-Sense/
-│
-├── utils/                  # ML and logic modules
-│   ├── model.py            # Image classification model
-│   ├── fertilizer.py       # Fertilizer logic
-│   └── disease.py          # Disease metadata and handling
-│
-├── templates/              # HTML pages
-│   ├── layout.html         # Base layout
-│   ├── index.html          # Home page
-│   ├── crop.html           # Crop recommendation UI
-│   ├── fertilizer.html     # Fertilizer recommendation UI
-│   └── disease.html        # Disease detection UI
-│
-├── static/
-│   ├── css/                # Stylesheets
-│   └── images/             # Image assets
-│
-├── requirements.txt        # Python dependencies
-├── config.py               # Weather API and other configs
-└── app.py                  # Main Flask application
+<pre><code>```plaintext Agri-Sense/ │ ├── app.py # Main Flask application ├── config.py # API keys and configuration ├── requirements.txt # Python dependencies │ ├── utils/ # ML and logic modules │ ├── model.py # Image classification model │ ├── fertilizer.py # Fertilizer recommendation logic │ └── disease.py # Disease information and prediction │ ├── templates/ # HTML templates │ ├── layout.html # Base layout │ ├── index.html # Home page │ ├── crop.html # Crop recommendation page │ ├── fertilizer.html # Fertilizer recommendation page │ └── disease.html # Disease prediction page │ ├── static/ # Static files │ ├── css/ # CSS stylesheets │ └── images/ # App images ```</code></pre>
+
 🤝 Contributing
 We welcome contributions!
 To contribute:
