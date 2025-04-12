@@ -31,31 +31,23 @@ Database: (Not specified; assumed to be local/in-memory for now)
 🔧 Installation & Setup
 1. Clone the Repository
 bash
-Copy
-Edit
-git clone https://github.com/nithingowda381/Agri-Sense
-cd Agri-Sense
+'''git clone https://github.com/nithingowda381/Agri-Sense'''
+'''cd Agri-Sense'''
 2. Create a Virtual Environment
 bash
-Copy
-Edit
-python -m venv venv
+'''python -m venv venv'''
 # On Windows
-venv\Scripts\activate
+'''venv\Scripts\activate'''
 # On Linux/macOS
-source venv/bin/activate
+'''source venv/bin/activate'''
 3. Install Dependencies
 bash
-Copy
-Edit
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 4. Configure Environment
 Open config.py and insert your Weather API key.
 
 5. Launch the Application
 bash
-Copy
-Edit
 flask run
 💡 Usage Guide
 Crop Recommendation:
