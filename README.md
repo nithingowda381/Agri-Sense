@@ -1,6 +1,5 @@
 🌾 Agri-Sense – Smart Farming Assistant
-Agri-Sense is an intelligent web application designed to empower farmers with data-driven insights for improved agricultural practices. 
-By integrating machine learning, the platform offers real-time recommendations on crop selection, fertilizer usage, and disease detection, thereby enhancing productivity and sustainability.
+Agri-Sense is an intelligent web application designed to empower farmers with data-driven insights for improved agricultural practices. By integrating machine learning, the platform offers real-time recommendations on crop selection, fertilizer usage, and disease detection, thereby enhancing productivity and sustainability.
 
 🚀 Features
 🌱 Crop Recommendation
@@ -82,5 +81,6 @@ See the LICENSE file for more details.
 
 🙏 Acknowledgments
 Special thanks to the open-source community.
+
 
 
